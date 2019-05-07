@@ -1,11 +1,19 @@
-# Lead-PHP-Developer-Position
+# Senior-PHP-Developer-Position
 looking for Lead PHP Dev & Senior PHP Devs for this project
 
+Overall Project Stack:
+
+Petitions site: Raw PHP(7.1 + composer packages) + HTML + CSS + Jquery
+Blog: WordPress with custom theme, probably several custom plugins
+Middleware: Lot’s of custom scripts (PHP, Symfony components), CRON scripts(PHP). In plans migration to Jenkins pipelines instead of CRON
+DB: MySQL (MariaDB)
+
+Care2 is a social networking website. The goal of the site is to connect activists from around the world with other individuals, organizations.
 Care2 provides tools for people to become change-makers, to go from caring about something in this world to doing something about it.
 
 ## Skills, Knowledge, & Experience:
 
-- 7+ years of ongoing daily engineering experience working with PHP and MySQL.
+- 5+ years of ongoing daily engineering experience working with PHP and MySQL.
 - Work experience developing software in a business environment, preferably with Linux/UNIX/Apache.
 - Excellent problem-solving skills, a firm grasp on algorithms, and able to find and implement simple, modular, scalable solutions.
 - Upper-Intermediate English
