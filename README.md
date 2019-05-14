@@ -8,8 +8,6 @@ Overall Project Stack:
 - Middleware: Lot’s of custom scripts (PHP, Symfony components), CRON scripts(PHP). In plans migration to Jenkins pipelines instead of CRON
 - DB: MySQL (MariaDB)
 
-Care2 is a social networking website. The goal of the site is to connect activists from around the world with other individuals, organizations.
-Care2 provides tools for people to become change-makers, to go from caring about something in this world to doing something about it.
 
 ## Skills, Knowledge, & Experience:
 
@@ -33,5 +31,5 @@ Care2 provides tools for people to become change-makers, to go from caring about
 
 ## About Project:
 
-- Care2 is a social networking website that was founded by Randy Paynter in 1998. The goal of the site is to connect activists from around the world with other individuals, organizations.
+- Care2 is a social networking website. The goal of the site is to connect activists from around the world with other individuals, organizations.
 - Care2 provides tools for people to become change-makers, to go from caring about something in this world to doing something about it.
